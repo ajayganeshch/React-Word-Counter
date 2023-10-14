@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### 🌐 Website Link: [Visit Site](https://react-word-counter.onrender.com/)
 
-### Upload Date : 13-10-2023
+Upload Date : 13-10-2023
 
-### Last Repo Updated Date : 14-10-2023
+Last Repo Updated Date : 14-10-2023
 
 ***
 
